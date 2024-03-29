@@ -1,3 +1,7 @@
+<h1>
+  <img width='100%' alt='Banner' title='App' src='.github/app.png'
+</h1>
+
 # DESAFIO 01 - PLAYERMUSIC 
 ## Rocketseat #boraCodar 
 
