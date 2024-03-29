@@ -6,10 +6,10 @@
 </h1>
 
 
-![HTML](![image](https://github.com/sararoseanemota/playermusic/assets/80297582/e660c632-712b-43b5-bd2c-26abd3764e88)
+![HTML](![Static Badge](https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5)
+![CSS](![Static Badge](https://img.shields.io/badge/CSS-gray?style=flat-square&logo=css3&color=%231572B6)
 )
-![CSS](https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JAVASCRIPT](![Static Badge](https://img.shields.io/badge/JAVASCRIPT-gray?style=flat&logo=javascript)
 
 This project is a music player website
 
