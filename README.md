@@ -6,10 +6,10 @@
 </h1>
 
 
-![HTML](![Static Badge](https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5)
-![CSS](![Static Badge](https://img.shields.io/badge/CSS-gray?style=flat-square&logo=css3&color=%231572B6)
+![HTML](https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-gray?style=flat-square&logo=css3&color=%231572B6)
 )
-![JAVASCRIPT](![Static Badge](https://img.shields.io/badge/JAVASCRIPT-gray?style=flat&logo=javascript)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=flat&logo=javascript)
 
 This project is a music player website
 
