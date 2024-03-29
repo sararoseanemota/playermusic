@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>playermusic</title>
+
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="player">
+        <div class="logo">
+            <img src="/assets/logo.png" alt="logo">
+            <div class="infoMusic">
+                <span id="musicName"></span>
+                <p id="artistName"></p>
+            </div>
+        </div>
+
+
+        <audio id="player"></audio>
+
+        <div class="controls">
+            <button id="playBack">
+                <img src="/assets/play-back.svg" alt="voltar player">
+            </button>
+            <button id="playPauseButton">
+                <img src="/assets/play.svg" alt="play">
+            </button>
+            <button id="playForward">
+                <img src="/assets/play-forward.svg" alt="acelerar player">
+            </button>
+        </div>
+        <div class="footer">
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+            <div class="time">
+                <span id="currentTime">0:00</span>
+                <span id="duration">0:00</span>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="js/script.js"></script>
+</body>
+</html>
